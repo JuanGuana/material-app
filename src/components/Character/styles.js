@@ -18,8 +18,7 @@ const styles = () => ({
 
   text: {
     margin: '2px',
-    fontSize: '18px',
-    background: '#44281d',
+    fontSize: '1.4rem',
     borderRadius: '5px',
   }
   
